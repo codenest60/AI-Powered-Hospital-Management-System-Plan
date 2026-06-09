@@ -59,11 +59,3 @@ This project is an AI-Powered Hospital Management System designed to streamline 
 * AI: OpenAI API
 
 ---
-
-## 👨‍💻 Author
-
-**Name:** [Your Name]
-
-**Student ID:** [Your Student ID]
-
-**Course:** Software Engineering
